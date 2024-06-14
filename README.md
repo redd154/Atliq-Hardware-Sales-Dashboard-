@@ -11,3 +11,6 @@ Insights :
 Track the sales and revenue of Atliq Hardware sales Dashbooard by using the power bi dashboard the organisation can track other terms related to sales such as profit margin and revenue percentage.
 
 This is the final report:
+
+![Screenshot (4)](https://github.com/redd154/Atliq-Hardware-Sales-Dashboard-/assets/56929226/b5bebc6a-8649-4071-9b45-188091f9a8c1)
+![Screenshot (5)](https://github.com/redd154/Atliq-Hardware-Sales-Dashboard-/assets/56929226/4b492130-278f-43bc-bba9-50ac70160ce6)
